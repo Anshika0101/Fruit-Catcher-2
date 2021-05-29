@@ -103,7 +103,7 @@ class Game{
                          case 5: fruits.addImage("fruit1", fruit5_img);
                          break;
                      }
-                     fruits.scale=0.2;
+                     fruits.scale=0.1;
                      fruitGroup.add(fruits);
                 }
 
